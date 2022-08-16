@@ -1,0 +1,25 @@
+.finance{
+    background-color: #302f82;
+    width: 100%;
+  }
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 250px);
+    grid-template-rows: 300px 300px;
+    grid-gap: 20px;
+    justify-content: center;
+
+}
+
+.section {
+    margin-bottom: 10px;
+    border: 1px solid black;
+    background-color: #ffffff;
+    align-items: center;
+    text-justify: auto;
+    padding: 5px 5px;
+    border-radius:10px;
+    border: 2px solid #fff;
+
+}

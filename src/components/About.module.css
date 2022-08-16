@@ -1,0 +1,21 @@
+.about {
+    margin:10px 10px;
+    background-color:#FFFCEC;
+    
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    margin: 10px;
+}
+
+.space {
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+    padding: 5px 5px;
+    border-radius: 5px;
+    
+}
